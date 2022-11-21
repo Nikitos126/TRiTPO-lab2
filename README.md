@@ -27,7 +27,7 @@
 
 Окно вывода приложение.
 
-![image](https://user-images.githubusercontent.com/68506750/198299191-d4e7d9bf-dbce-4bab-8e5b-3d7a1c043761.png)
+![image]([https://user-images.githubusercontent.com/68506750/198299191-d4e7d9bf-dbce-4bab-8e5b-3d7a1c043761.png](https://github.com/Nikitos126/TRiTPO-lab2/blob/main/Mockups/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 
 2) Светлая тема
 
