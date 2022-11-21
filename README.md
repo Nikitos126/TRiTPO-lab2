@@ -25,7 +25,7 @@
 
 ### 2.2 Интерфейс пользователя
 
-Окно вывода приложения.
+Окно вывода приложения при запуске драйвера. 
 
 ![image](https://github.com/Nikitos126/TRiTPO-lab2/blob/main/Mockups/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 
@@ -33,6 +33,9 @@
 
 ![image](https://github.com/Nikitos126/TRiTPO-lab2/blob/main/Mockups/Debug.png)
 
+Окно вывода приложения при закрытии драйвера.
+
+![image](https://github.com/Nikitos126/TRiTPO-lab2/blob/main/Mockups/Unload.png)
 
 ### 2.3 Характеристики пользователей
 Данное приложение могут использовать пользователи компьютеров с операционной системой Windows 10.
